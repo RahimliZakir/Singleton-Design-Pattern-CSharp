@@ -7,4 +7,12 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <EditorConfigFiles Remove="C:\Users\zrahi\OneDrive\Masaüstü\Singleton-Design-Pattern-CSharp\Project.Solution\Project.ConsoleApp\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="C:\Users\zrahi\OneDrive\Masaüstü\Singleton-Design-Pattern-CSharp\Project.Solution\Project.ConsoleApp\.editorconfig" />
+  </ItemGroup>
+
 </Project>

@@ -1,0 +1,8 @@
+﻿- C# Design Pattern: Singleton
+The singleton design pattern is a creational design pattern.
+
+- Purpose
+The purpose of the singleton design pattern is to ensure that a class only has one instance 
+and provide a global point of access to it throughout the life of an application. 
+Access of one instance is preferred to avoid unexpected results.
+
