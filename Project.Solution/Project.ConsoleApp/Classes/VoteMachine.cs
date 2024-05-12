@@ -52,7 +52,11 @@ namespace Project.ConsoleApp.Classes;
 // The static constructor runs only once per app domain when any static member of a class is accessed.
 public class VoteMachine
 {
-    static VoteMachine() { }
+    static VoteMachine()
+    {
+        // It'll work only 'once'! (Because the constructor is 'static')
+        Console.WriteLine("Instance has created!");
+    }
 
     private VoteMachine() { }
 
